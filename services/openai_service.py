@@ -6,7 +6,7 @@ import ell
 from openai import OpenAI
 
 # Set the OpenAI API key
-openai.api_key = "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"
+openai.api_key = ""
 
 class OpenAIService:
     @ell.complex(
