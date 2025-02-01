@@ -56,7 +56,7 @@ class OpenAIService:
                 10. Rewrite the topic heading to sound more exciting, 
                     dynamic and interesting to the audience, while focusing on its futuristic elements.
                        
-                11. Ensure each topic has a similarity score below 0.7 compared to the existing database to avoid repetition.
+                11. Ensure each topic has a similarity score below 0.7 compared to the existing database to avoid repetition.0.
                 
 
                 Return the output as a JSON object with the following structure:
